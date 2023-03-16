@@ -5,7 +5,8 @@
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
+  "profile": [
+  	{
       "id": 1,
       "brand": "Tata",
       "year": 2019,
@@ -23,4 +24,5 @@
       "Description": "Tata Nexon with all original documents",
       "Price": 800000
     }
+  ]
 }
